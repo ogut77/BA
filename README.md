@@ -6,6 +6,11 @@ Single Table Answer
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/BA/blob/main/SingleTableAns.ipynb ]
 
+Multiple Table
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/BA/blob/main/MultipleTable.ipynb ]
+
+
 Chapter 1
 
 Dimension vs Measures-Continues vs Discrete

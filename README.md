@@ -14,6 +14,12 @@ Homework 2
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/BA/blob/main/Homework2.ipynb ]
 
+Homework 3
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/BA/blob/main/Homework3.ipynb ]
+
+
+
 Chapter 1
 
 Dimension vs Measures-Continues vs Discrete

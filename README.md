@@ -44,12 +44,31 @@ Prep Builder Exercises
 
 https://preppindata.blogspot.com/
 
-https://preppindata.blogspot.com/2022/01/2022-week-3-prep-school-passing-grades.html
+*https://preppindata.blogspot.com/2022/01/2022-week-3-prep-school-passing-grades.html
 
-https://preppindata.blogspot.com/2022/01/2022-week-3-solution.html
+*https://preppindata.blogspot.com/2022/01/2022-week-3-solution.html
+
+https://preppindata.blogspot.com/2022/07/2022-week-27-c-clean-and-aggregate.html
+
+https://preppindata.blogspot.com/2022/07/2022-week-27-solution.html
+
+https://preppindata.blogspot.com/2022/07/2022-week-28-c-no-sales-today.html
+
+https://preppindata.blogspot.com/2022/07/2022-week-28-solution.html
+
+https://preppindata.blogspot.com/2022/07/2022-week-29-c-meeting-targets.html
+
+*https://preppindata.blogspot.com/2022/07/2022-week-30-c-actual-sales-values.html
+
+*https://preppindata.blogspot.com/2022/08/2022-week-30-solution.html
+
+*https://preppindata.blogspot.com/2022/08/2022-week-33-c-next-sale.html
+
+*https://preppindata.blogspot.com/2022/08/2022-week-33-solution.html
 
 
 
 Chapter 4
 
 https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm
+

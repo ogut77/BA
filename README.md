@@ -27,11 +27,13 @@ Homework 3
 Chapter 1
 
 Dimension vs Measures-Continues vs Discrete
+
 https://www.sqlbelle.com/blog/learning-tableau-3-concepts-you-need-to-know
 
 Chapter 3- Prep Builder
 
 Prep Builder Tutorial
+
 https://help.tableau.com/current/prep/en-us/prep_get_started.htm
 
 Use of Power Query and Power BI to repeat the Tableau tutorial 
@@ -39,6 +41,7 @@ Use of Power Query and Power BI to repeat the Tableau tutorial
 https://www.youtube.com/watch?v=Sj73cfMRyCQ&t=1409s
 
 Prep Builder Exercises
+
 https://preppindata.blogspot.com/
 
 https://preppindata.blogspot.com/2022/01/2022-week-3-prep-school-passing-grades.html

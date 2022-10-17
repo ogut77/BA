@@ -72,3 +72,19 @@ Chapter 4
 
 https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm
 
+Scaffolding
+
+https://tableau.substack.com/p/tableau-date-scaffold
+
+https://www.thedataschool.co.uk/manuela-marolla/tableau-prep-101-data-scaffolding-how-many-patients-hospital-today
+
+Blending 
+
+https://data-flair.training/blogs/tableau-data-blending/
+
+https://help.tableau.com/current/pro/desktop/en-us/multiple_connections.htm
+
+Pivoting
+
+https://help.tableau.com/current/pro/desktop/en-us/pivot.htm
+

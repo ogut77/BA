@@ -94,3 +94,5 @@ Pivoting
 
 https://help.tableau.com/current/pro/desktop/en-us/pivot.htm
 
+Slected Time Frame
+https://github.com/ogut77/BA/blob/main/Selected%20Time%20Frame.txt

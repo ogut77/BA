@@ -1,0 +1,5 @@
+CASE [Select Time Frame]
+WHEN 1 THEN DATEDIFF('day',[Check-in Date],[Discharge Date])
+WHEN 2 THEN DATEDIFF('day',[Surgery Date],[Discharge Date])
+WHEN 3 THEN DATEDIFF('day',[Check-in Date],[Surgery Date])
+END

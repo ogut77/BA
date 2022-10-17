@@ -80,6 +80,12 @@ https://www.thedataschool.co.uk/manuela-marolla/tableau-prep-101-data-scaffoldin
 
 Blending 
 
+Pants
+https://github.com/ogut77/BA/blob/main/Pants.xlsx
+
+Shirts
+https://github.com/ogut77/BA/blob/main/Shirts.xlsx
+
 https://data-flair.training/blogs/tableau-data-blending/
 
 https://help.tableau.com/current/pro/desktop/en-us/multiple_connections.htm

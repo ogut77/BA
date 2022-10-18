@@ -88,6 +88,10 @@ https://github.com/ogut77/BA/blob/main/Shirts.xlsx
 
 https://data-flair.training/blogs/tableau-data-blending/
 
+https://github.com/ogut77/BA/blob/main/H%26M-Sales-2018.xlsx
+
+https://github.com/ogut77/BA/blob/main/H%26M-Sales-2019.xlsx
+
 https://help.tableau.com/current/pro/desktop/en-us/multiple_connections.htm
 
 Pivoting

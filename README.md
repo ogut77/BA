@@ -72,11 +72,7 @@ Chapter 4
 
 https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm
 
-Scaffolding
 
-https://tableau.substack.com/p/tableau-date-scaffold
-
-https://www.thedataschool.co.uk/manuela-marolla/tableau-prep-101-data-scaffolding-how-many-patients-hospital-today
 
 Blending 
 
@@ -104,5 +100,13 @@ https://github.com/ogut77/BA/blob/main/Patient_Snapshot.xlsx
 Selected Time Frame
 https://github.com/ogut77/BA/blob/main/Selected%20Time%20Frame.txt
 
+
+
+Scaffolding
+
 Dates 
 https://github.com/ogut77/BA/blob/main/Dates.xlsx
+
+https://tableau.substack.com/p/tableau-date-scaffold
+
+https://www.thedataschool.co.uk/manuela-marolla/tableau-prep-101-data-scaffolding-how-many-patients-hospital-today

@@ -113,3 +113,6 @@ https://www.thedataschool.co.uk/manuela-marolla/tableau-prep-101-data-scaffoldin
 
 Chapter 5
 https://github.com/ogut77/BA/blob/main/Sample%20-%20Superstore.xls
+
+Liverpool First 11 
+https://github.com/ogut77/BA/blob/main/Liverpool%20Lineups.xlsx

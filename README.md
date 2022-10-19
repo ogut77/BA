@@ -110,3 +110,6 @@ https://github.com/ogut77/BA/blob/main/Dates.xlsx
 https://tableau.substack.com/p/tableau-date-scaffold
 
 https://www.thedataschool.co.uk/manuela-marolla/tableau-prep-101-data-scaffolding-how-many-patients-hospital-today
+
+Chapter 5
+https://github.com/ogut77/BA/blob/main/Sample%20-%20Superstore.xls

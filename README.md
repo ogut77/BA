@@ -128,3 +128,7 @@ https://github.com/ogut77/BA/blob/main/Mastering%20Tableau%203.0%20Chapter%205%2
 
 Liverpool First 11 
 https://github.com/ogut77/BA/blob/main/Liverpool%20Lineups.xlsx
+
+Chapter 7- Level of Details (LoD)
+
+https://www.tableau.com/about/blog/LOD-expressions

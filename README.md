@@ -125,6 +125,8 @@ https://github.com/ogut77/BA/blob/main/Sample%20-%20Superstore.xls
 Chapter 5 Tableau Start File
 https://github.com/ogut77/BA/blob/main/Mastering%20Tableau%203.0%20Chapter%205%20Starter%20(1).twbx
 
+Chapter 5 Solution in Class
+https://public.tableau.com/app/profile/hulisi.ogut/viz/Chapter5ClassSolution/DirectionalNon-Directional?publish=yes
 
 Liverpool First 11 
 https://github.com/ogut77/BA/blob/main/Liverpool%20Lineups.xlsx

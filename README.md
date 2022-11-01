@@ -131,6 +131,9 @@ https://public.tableau.com/app/profile/hulisi.ogut/viz/Chapter5ClassSolution/Dir
 Liverpool First 11 
 https://github.com/ogut77/BA/blob/main/Liverpool%20Lineups.xlsx
 
+Chapter 7 Tableau Solution File
+https://github.com/ogut77/BA/blob/main/Mastering%20Tableau%203.0%20Chapter%207%20Solution%20(3).twbx
+
 Chapter 7- Level of Details (LoD)
 
 https://www.tableau.com/about/blog/LOD-expressions

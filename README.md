@@ -138,6 +138,8 @@ Chapter 7- Level of Details (LoD)
 
 https://www.tableau.com/about/blog/LOD-expressions
 
+https://www.flerlagetwins.com/2020/02/lod-uses.html
+
 Chapter 7- Level of Details (LoD)-Working File
 
 https://github.com/ogut77/BA/blob/main/LODTableauBlank.twbx

@@ -137,3 +137,7 @@ https://github.com/ogut77/BA/blob/main/Mastering%20Tableau%203.0%20Chapter%207%2
 Chapter 7- Level of Details (LoD)
 
 https://www.tableau.com/about/blog/LOD-expressions
+
+Chapter 7- Level of Details (LoD)-Working File
+
+https://github.com/ogut77/BA/blob/main/LODTableauBlank.twbx

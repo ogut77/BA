@@ -146,3 +146,8 @@ https://www.flerlagetwins.com/2020/02/lod-uses.html
 Chapter 7- Level of Details (LoD)-Working File
 
 https://github.com/ogut77/BA/blob/main/LODTableauBlank.twbx
+
+Review Midterm Question
+
+https://github.com/ogut77/BA/blob/main/ReviewMidterm.ipynb
+

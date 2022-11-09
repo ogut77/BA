@@ -149,5 +149,10 @@ https://github.com/ogut77/BA/blob/main/LODTableauBlank.twbx
 
 Review Midterm Question
 
+SQL
+
 https://github.com/ogut77/BA/blob/main/ReviewMidterm.ipynb
 
+Tableau
+
+https://github.com/ogut77/BA/blob/main/MidtermSampleQuestionBA.docx

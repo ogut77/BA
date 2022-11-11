@@ -156,3 +156,7 @@ https://github.com/ogut77/BA/blob/main/ReviewMidterm.ipynb
 Tableau
 
 https://github.com/ogut77/BA/blob/main/MidtermSampleQuestionBA.docx
+
+Data for Tableau Sample Questions
+
+https://github.com/ogut77/BA/blob/main/Orders-ReviewMidterm.csv

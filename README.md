@@ -165,4 +165,7 @@ Chapter 8
 
 https://github.com/ogut77/BA/blob/main/Mastering%20Tableau%203.0%20Chapter%208%20Solution.twbx
 
+Data for Homework 7 and 8
+
+https://github.com/ogut77/BA/blob/main/Hm7Orders.xls
 

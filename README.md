@@ -160,3 +160,9 @@ https://github.com/ogut77/BA/blob/main/MidtermSampleQuestionBA.docx
 Data for Tableau Sample Questions
 
 https://github.com/ogut77/BA/blob/main/Orders-ReviewMidterm.csv
+
+Chapter 8
+
+https://github.com/ogut77/BA/blob/main/Mastering%20Tableau%203.0%20Chapter%208%20Solution.twbx
+
+

@@ -169,3 +169,9 @@ Data for Homework 7 and 8
 
 https://github.com/ogut77/BA/blob/main/Hm7Orders.xls
 
+Animation
+
+https://www.tableau.com/blog/bring-your-data-life-viz-animations
+
+
+

@@ -175,3 +175,4 @@ https://www.tableau.com/blog/bring-your-data-life-viz-animations
 
 https://github.com/ogut77/BA/blob/main/AnimationDataSet.xls
 
+https://www.youtube.com/watch?v=usdJgEwMinM&t=747s

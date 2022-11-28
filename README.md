@@ -176,3 +176,27 @@ https://www.tableau.com/blog/bring-your-data-life-viz-animations
 https://github.com/ogut77/BA/blob/main/AnimationDataSet.xls
 
 https://www.youtube.com/watch?v=usdJgEwMinM&t=747s
+
+Dashboard
+
+XLS
+
+https://github.com/ogut77/BA/blob/main/Financial%20Consumer%20Complaints.xls
+
+CSV
+
+https://github.com/ogut77/BA/blob/main/Financial%20Consumer%20Complaints.csv
+
+HEXMAP
+
+https://github.com/ogut77/BA/blob/main/hexmap.xlsx
+
+DASHBOARD 2 
+
+https://public.tableau.com/app/profile/hulisi.ogut/viz/FinComplaint2/Dashboard3
+
+ORIGINAL VISUAL
+
+https://public.tableau.com/app/profile/gandes.goldestan/viz/FinancialComplaintsDashboardRWFD/Dashboard
+
+

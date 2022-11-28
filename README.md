@@ -191,6 +191,10 @@ HEXMAP
 
 https://github.com/ogut77/BA/blob/main/hexmap.xlsx
 
+DASHBOARD 1
+
+https://public.tableau.com/app/profile/hulisi.ogut/viz/ProfitSalesDashboardKPI/Dashboard1
+
 DASHBOARD 2 
 
 https://public.tableau.com/app/profile/hulisi.ogut/viz/FinComplaint2/Dashboard3

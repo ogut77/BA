@@ -207,4 +207,8 @@ CLUSTERING
 
 https://www.datacamp.com/tutorial/cluster-analysis-in-tableau
 
+PYTHON TUTORIAL
+
+https://github.com/ogut77/BA/blob/main/PythonTutorial.ipynb
+
 

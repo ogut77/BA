@@ -211,4 +211,4 @@ PYTHON TUTORIAL
 
 https://github.com/ogut77/BA/blob/main/PythonTutorial.ipynb
 
-
+https://github.com/ogut77/BA/blob/main/PythonTutorialAns.ipynb

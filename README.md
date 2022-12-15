@@ -216,3 +216,5 @@ https://github.com/ogut77/BA/blob/main/PythonTutorialAns.ipynb
 DATA MANIPULATION
 
 https://github.com/ogut77/BA/blob/main/Data_Manipulation_with_pandas.ipynb
+
+https://github.com/ogut77/BA/blob/main/DataProcessing2.ipynb

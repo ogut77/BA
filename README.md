@@ -227,4 +227,4 @@ Final Review
 
 https://github.com/ogut77/BA/blob/main/ReviewFinal.ipynb
 
-
+https://github.com/ogut77/BA/blob/main/FinalSample2.docx

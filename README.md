@@ -1,6 +1,6 @@
 Syllabus
 
-https://github.com/ogut77/BA/blob/main/SyllabusBusAnalytics.pdf
+https://github.com/ogut77/BA/blob/main/SyllabusAnalytics.pdf
 
 Single Table
 

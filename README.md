@@ -1,6 +1,6 @@
 Syllabus
 
-https://github.com/ogut77/BA/blob/main/SyllabusAnalytics.pdf
+https://github.com/ogut77/BA/blob/main/BusinessAnalyticsSyllabus.pdf
 
 Single Table
 

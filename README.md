@@ -36,7 +36,7 @@ https://www.sqlbelle.com/blog/learning-tableau-3-concepts-you-need-to-know
 
 Dimension vs Measures-Continues vs Discrete 2
 
-
+https://github.com/ogut77/BA/blob/main/Lessons%20from%20Tableau%20Training%20-DimensionMeasures.pdf
 
 Chapter 1 Tableau File
 

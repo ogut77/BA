@@ -1,0 +1,8 @@
+Select *
+From ((((Customer inner join OrderTbl on Customer.CustNo=OrderTbl.CustNo)
+ left join Employee on OrderTbl.EmpNo=Employee.EmpNo) left join 
+ Employee E1  on Employee.SupEmpNo=E1.EmpNo) 
+inner join OrdLine on OrderTbl.OrdNo=OrdLine.OrdNo) 
+inner join Product  on OrdLine.ProdNo=Product.ProdNo
+
+

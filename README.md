@@ -38,6 +38,10 @@ Customer Order Report
 
 https://public.tableau.com/app/profile/hulisi.ogut/viz/CustomerOrderReport_16651320735140/CustomerReport
 
+Product Report
+
+https://public.tableau.com/app/profile/hulisi.ogut/viz/ProductTable_16657340420550/Product
+
 Chapter 1
 
 Dimension vs Measures-Continues vs Discrete

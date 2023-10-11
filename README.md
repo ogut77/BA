@@ -34,6 +34,10 @@ Order Database-Access
 
 https://github.com/ogut77/BA/blob/main/OrdDB.accdb
 
+Customer Order Report
+
+https://public.tableau.com/app/profile/hulisi.ogut/viz/CustomerOrderReport_16651320735140/CustomerReport
+
 Chapter 1
 
 Dimension vs Measures-Continues vs Discrete

@@ -163,6 +163,8 @@ Chapter 7- Level of Details (LoD)
 
 https://www.tableau.com/about/blog/LOD-expressions
 
+https://www.rigordatasolutions.com/post/how-to-use-fixed-level-of-detail-lod-expression-in-tableau
+
 https://www.flerlagetwins.com/2020/02/lod-uses.html
 
 Chapter 7- Level of Details (LoD)-Working File
@@ -171,7 +173,7 @@ https://github.com/ogut77/BA/blob/main/LODTableauBlank.twbx
 
 Actual vs Target
 
-
+https://github.com/ogut77/BA/blob/main/Profit%20Vs.%20Target.twbx
 
 Review Midterm Question
 

@@ -169,6 +169,10 @@ Chapter 7- Level of Details (LoD)-Working File
 
 https://github.com/ogut77/BA/blob/main/LODTableauBlank.twbx
 
+Actual vs Target
+
+
+
 Review Midterm Question
 
 SQL

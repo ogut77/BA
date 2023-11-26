@@ -205,7 +205,11 @@ https://github.com/ogut77/BA/blob/main/AnimationDataSet.xls
 
 https://www.youtube.com/watch?v=usdJgEwMinM&t=747s
 
+Story
+https://help.tableau.com/current/pro/desktop/en-us/stories.htm
+
 Dashboard
+
 
 XLS
 

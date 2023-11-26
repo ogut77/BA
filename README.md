@@ -210,6 +210,10 @@ https://help.tableau.com/current/pro/desktop/en-us/stories.htm
 
 Dashboard
 
+Story
+https://help.tableau.com/current/pro/desktop/en-us/story_example.htm
+
+https://public.tableau.com/app/profile/hulisi.ogut/viz/StoryOnDiscount/Story1
 
 XLS
 

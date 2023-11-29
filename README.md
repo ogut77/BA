@@ -217,6 +217,11 @@ https://help.tableau.com/current/pro/desktop/en-us/story_example.htm
 
 https://public.tableau.com/app/profile/hulisi.ogut/viz/StoryOnDiscount/Story1
 
+PowerBI
+
+https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys
+
+
 XLS
 
 https://github.com/ogut77/BA/blob/main/Financial%20Consumer%20Complaints.xlsx

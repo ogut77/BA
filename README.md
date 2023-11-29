@@ -221,6 +221,8 @@ PowerBI
 
 https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys
 
+https://github.com/ogut77/BA/blob/main/Financial%20Sample.xlsx
+
 
 XLS
 

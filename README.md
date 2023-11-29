@@ -210,6 +210,8 @@ https://help.tableau.com/current/pro/desktop/en-us/stories.htm
 
 Dashboard
 
+https://public.tableau.com/app/profile/hulisi.ogut/viz/ProfitSalesDashboardKPI3/Dashboard5
+
 Story
 https://help.tableau.com/current/pro/desktop/en-us/story_example.htm
 

@@ -253,10 +253,11 @@ CLUSTERING
 https://www.datacamp.com/tutorial/cluster-analysis-in-tableau
 
 PYTHON TUTORIAL
+https://colab.research.google.com/github/ogut77/BA/blob/main/PythonTutorial.ipynb
 
-https://github.com/ogut77/BA/blob/main/PythonTutorial.ipynb
+https://colab.research.google.com/github/ogut77/BA/blob/main/PythonTutorialAns.ipynb
 
-https://github.com/ogut77/BA/blob/main/PythonTutorialAns.ipynb
+
 
 DATA MANIPULATION
 

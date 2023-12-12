@@ -269,6 +269,10 @@ https://github.com/ogut77/BA/blob/main/DataProcessing2.ipynb
 
 https://github.com/ogut77/BA/blob/main/DataProcessing2Ans.ipynb
 
+ATA MANIPULATION 2
+
+https://github.com/ogut77/BA/blob/main/PrepinPython.ipynb
+
 Final Review
 
 https://github.com/ogut77/BA/blob/main/ReviewFinal.ipynb

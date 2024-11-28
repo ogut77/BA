@@ -210,7 +210,12 @@ https://help.tableau.com/current/pro/desktop/en-us/stories.htm
 
 Dashboard
 
-https://public.tableau.com/app/profile/hulisi.ogut/viz/ProfitSalesDashboardKPI3/Dashboard5
+[https://public.tableau.com/app/profile/hulisi.ogut/viz/SalesandProfitBA2024/Dashboard1)]
+
+Data For Dashboard
+
+https://github.com/ogut77/BA/blob/main/Sample%20-%20Superstore.xls
+
 
 Story
 https://help.tableau.com/current/pro/desktop/en-us/story_example.htm

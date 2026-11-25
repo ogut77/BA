@@ -220,6 +220,8 @@ https://github.com/ogut77/BA/blob/main/Sample%20-%20Superstore.xls
 Story
 https://help.tableau.com/current/pro/desktop/en-us/story_example.htm
 
+https://public.tableau.com/app/profile/tableau.docs.team/viz/EarthquakeTrendStory2/Finished-Earthquakestory
+
 https://public.tableau.com/app/profile/hulisi.ogut/viz/StoryOnDiscount/Story1
 
 PowerBI
